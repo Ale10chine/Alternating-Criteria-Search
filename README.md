@@ -1,6 +1,6 @@
-# Thesis-Project
+# ACS
 ## General Notes
-
+This is my personal thesis project based on the implementaton of an heuristic algoritm to solve general MIP problems.
 In order to an implementative choice, in the code, it is used the camelCase notation for coherence with
 the CPLEX library although it is not the native notation of C++. 
 
